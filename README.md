@@ -1,1 +1,1 @@
-# BMG-Solana-Sniper-Bot
+# BMG-Solana-Bot
